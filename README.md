@@ -1,4 +1,4 @@
 dongguk		 	20192282
 Kookmin.univ. SW
-Local commit
+Local push commit
 
