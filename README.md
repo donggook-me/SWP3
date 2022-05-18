@@ -1,3 +1,3 @@
 dongguk
-20192282 dongguk
+dongguk 20192282
 Kookmin.univ. SW
