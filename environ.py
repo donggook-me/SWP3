@@ -3,7 +3,7 @@ from wsgiref.simple_server import make_server
 def application(environ, start_response):
     response_body = [
         '%s: %s' % (key, value) for key, value in sorted(environ.items())
-    ]=
+    ]
     response_body = '\r\r'.join(response_body)
     status = '200 OK'
     response_headers = [
